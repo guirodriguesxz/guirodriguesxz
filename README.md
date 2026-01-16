@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left">Olá👋 Tudo Bem?</h1>
 
-<!--
-**guirodriguesxz/guirodriguesxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Sou Guilherme Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na Anhanguera e apaixonado por tecnologia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre Mim:</h2>
+
+###
+
+<p align="left">Embora ainda esteja em formação acadêmica, tenho grande interesse em explorar ferramentas de Tecnologia, buscando sempre aprimorar minhas habilidades e colaborar com equipes que busquem inovação e resultados.<br><br>Estou à procura de uma oportunidade para iniciar minha carreira e contribuir com meu conhecimento técnico e entusiasmo por novos desafios. Se você está em busca de um profissional motivado e disposto a aprender, adoraria conversar sobre como posso agregar ao seu time!<br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
+
+###
+
+<h2 align="left">Linguagens:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
