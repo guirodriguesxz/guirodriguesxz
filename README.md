@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">tenho grande interesse em explorar ferramentas de Tecnologia, buscando sempre aprimorar minhas habilidades e colaborar com equipes que busquem inovação e resultados.<br><br>Estou à procura de uma oportunidade para iniciar minha carreira e contribuir com meu conhecimento técnico e entusiasmo por novos desafios. Se você está em busca de um profissional motivado e disposto a aprender, adoraria conversar sobre como posso agregar ao seu time!<br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
+<p align="left">Tenho grande interesse em explorar ferramentas de Tecnologia, buscando sempre aprimorar minhas habilidades e colaborar com equipes que busquem inovação e resultados.<br><br>Estou à procura de uma oportunidade para iniciar minha carreira e contribuir com meu conhecimento técnico e entusiasmo por novos desafios. Se você está em busca de um profissional motivado e disposto a aprender, adoraria conversar sobre como posso agregar ao seu time!<br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
 
 ###
 
