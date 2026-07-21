@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Guilherme Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na Anhanguera e apaixonado por tecnologia.</p>
+<p align="left">Sou Guilherme Rodrigues, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por tecnologia.</p>
 
 ###
 
