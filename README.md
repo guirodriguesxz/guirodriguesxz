@@ -14,6 +14,12 @@
 <br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
 https://www.linkedin.com/in/guilhermerodrigueszx/
 
+<h2 align="left">About me (EN):</h2>
+
+###
+
+<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. Solid academic and practical background in Java, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
+
 ###
 
 <h2 align="left">Linguagens:</h2>
