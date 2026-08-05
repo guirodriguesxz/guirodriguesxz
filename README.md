@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Back-End formado (Análise e Desenvolvimento de Sistemas - Anhanguera) com foco na criação de soluções robustas e eficientes. Possuo sólida base acadêmica e prática em Java, Python e SQL, além de conhecimentos em tecnologias Front-End como JavaScript, HTML e CSS para uma visão Full-Stack do desenvolvimento!
+<p align="left">Desenvolvedor Back-End formado (Análise e Desenvolvimento de Sistemas - Anhanguera) com foco na criação de soluções robustas e eficientes. Possuo sólida base acadêmica e prática em Spring, Python e SQL, além de conhecimentos em tecnologias Front-End como JavaScript, HTML e CSS para uma visão Full-Stack do desenvolvimento!
 <br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
 https://www.linkedin.com/in/guilhermerodrigueszx/
 
@@ -18,7 +18,7 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
 
 ###
 
-<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. Solid academic and practical background in Java, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
+<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. Solid academic and practical background in Spring, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
 
 ###
 
