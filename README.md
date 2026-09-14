@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Back-End formado (Análise e Desenvolvimento de Sistemas - Anhanguera) com foco na criação de soluções robustas e eficientes. Possuo sólida base acadêmica e prática em Spring, Python e SQL, além de conhecimentos em tecnologias Front-End como JavaScript, HTML e CSS para uma visão Full-Stack do desenvolvimento!
+<p align="left">Desenvolvedor Back-End formado (Análise e Desenvolvimento de Sistemas - Anhanguera) com foco na criação de soluções robustas e eficientes. Desenvolvo e mantenho em produção um sistema completo para uma clínica (Node.js, PostgreSQL, bot de atendimento via WhatsApp com IA), além de base sólida em Spring, Python e SQL e conhecimentos em JavaScript, HTML e CSS para uma visão Full-Stack do desenvolvimento!
 <br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
 https://www.linkedin.com/in/guilhermerodrigueszx/
 
@@ -18,7 +18,7 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
 
 ###
 
-<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. Solid academic and practical background in Spring, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
+<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. I build and run in production a full system for a clinic (Node.js, PostgreSQL, an AI-powered WhatsApp bot), on top of a solid background in Spring, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
 
 ###
 
@@ -35,9 +35,15 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
