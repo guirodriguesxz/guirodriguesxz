@@ -14,6 +14,8 @@
 <br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
 https://www.linkedin.com/in/guilhermerodrigueszx/
 
+📄 [Currículo (PDF)](./curriculo_guilherme_rodrigues.pdf)
+
 <h2 align="left">About me (EN):</h2>
 
 ###
