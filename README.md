@@ -24,6 +24,17 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
 
 ###
 
+<h2 align="left">Projetos em destaque:</h2>
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**physiomanage**](https://github.com/guirodriguesxz/physiomanage) | SaaS multi-tenant para clínicas de fisioterapia, com JWT, isolamento por tenant e testes de integração | Java 21, Spring Boot 3, PostgreSQL, Redis, Testcontainers |
+| [**agendadorHorarios**](https://github.com/guirodriguesxz/agendadorHorarios) | API de agendamentos que impede choque de horário mesmo com requisições simultâneas e notifica via fila | Java 21, Spring Boot, PostgreSQL, Flyway, RabbitMQ |
+| [**motor-recomendacao**](https://github.com/guirodriguesxz/motor-recomendacao) | Microsserviço de recomendação de produtos por similaridade de cosseno | Python, FastAPI, scikit-learn, Docker |
+| [**gestao-piscinas-api**](https://github.com/guirodriguesxz/gestao-piscinas-api) | API de manutenção de piscinas com histórico químico (pH/cloro) para modelo preditivo | Java, Spring Boot |
+
+###
+
 <h2 align="left">Linguagens:</h2>
 
 ###
