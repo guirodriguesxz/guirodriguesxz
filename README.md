@@ -28,6 +28,7 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**facegym**](https://github.com/guirodriguesxz/facegym) · [demo](https://facegym-web.vercel.app) | Catraca de academia com reconhecimento facial: arquitetura hexagonal, circuit breaker com fallback por CPF e biometria em serviço separado (LGPD). Na demo dá para testar com o próprio rosto | Java 21, Spring Boot 3, Resilience4j, Python, FastAPI, InsightFace, pgvector, React, TypeScript |
 | [**physiomanage**](https://github.com/guirodriguesxz/physiomanage) · [demo](https://physiomanage-web.vercel.app) | SaaS multi-tenant para clínicas de fisioterapia, com JWT, isolamento por tenant e testes de integração. Front-end em [physiomanage-web](https://github.com/guirodriguesxz/physiomanage-web) | Java 21, Spring Boot 3, PostgreSQL, Redis, Testcontainers, React, TypeScript |
 | [**agendadorHorarios**](https://github.com/guirodriguesxz/agendadorHorarios) | API de agendamentos que impede choque de horário mesmo com requisições simultâneas e notifica via fila | Java 21, Spring Boot, PostgreSQL, Flyway, RabbitMQ |
 | [**motor-recomendacao**](https://github.com/guirodriguesxz/motor-recomendacao) | Microsserviço de recomendação de produtos por similaridade de cosseno | Python, FastAPI, scikit-learn, Docker |
