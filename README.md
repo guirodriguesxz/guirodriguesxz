@@ -4,6 +4,12 @@
 
 <p align="left">Sou Guilherme Rodrigues, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por tecnologia.</p>
 
+<p align="left">
+  <a href="https://guirodriguesxz.github.io/"><img src="https://img.shields.io/badge/🌐_Meu_site-Contrate--me-2563eb?style=for-the-badge" alt="Meu site - Contrate-me"></a>
+  <a href="https://wa.me/5511944983631"><img src="https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/guilhermerodrigueszx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 ###
 
 <h2 align="left">Sobre Mim:</h2>
