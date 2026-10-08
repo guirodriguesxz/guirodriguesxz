@@ -1,7 +1,5 @@
 <h1 align="left">Olá👋 Tudo Bem?</h1>
 
-###
-
 <p align="left">Sou Guilherme Rodrigues, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por tecnologia.</p>
 
 <p align="left">
@@ -10,25 +8,29 @@
   <a href="https://www.linkedin.com/in/guilhermerodrigueszx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-###
+---
 
 <h2 align="left">Sobre Mim:</h2>
 
-###
+<p align="left">
+Desenvolvedor Back-End formado em Análise e Desenvolvimento de Sistemas (Anhanguera), focado na criação de soluções robustas, escaláveis e eficientes. 
+<br><br>
+Recentemente, desenvolvi e coloquei em produção um sistema completo para gestão de clínica (Node.js, PostgreSQL e bot de atendimento via WhatsApp integrado a IA). Possuo base sólida em Java (Spring Boot), Python, SQL e arquitetura de sistemas, além de experiência prática em JavaScript, HTML e CSS para uma atuação Full-Stack.
+<br><br>
+📧 guirodrigues2080@gmail.com | 💼 <a href="https://www.linkedin.com/in/guilhermerodrigueszx/">LinkedIn</a> | 📄 <a href="./curriculo_guilherme_rodrigues.pdf">Currículo (PDF)</a>
+</p>
 
-<p align="left">Desenvolvedor Back-End formado (Análise e Desenvolvimento de Sistemas - Anhanguera) com foco na criação de soluções robustas e eficientes. Desenvolvo e mantenho em produção um sistema completo para uma clínica (Node.js, PostgreSQL, bot de atendimento via WhatsApp com IA), além de base sólida em Spring, Python e SQL e conhecimentos em JavaScript, HTML e CSS para uma visão Full-Stack do desenvolvimento!
-<br><br>Guilherme Rodrigues<br>guirodrigues2080@gmail.com</p>
-https://www.linkedin.com/in/guilhermerodrigueszx/
+---
 
-📄 [Currículo (PDF)](./curriculo_guilherme_rodrigues.pdf)
+<h2 align="left">About Me (EN):</h2>
 
-<h2 align="left">About me (EN):</h2>
+<p align="left">
+Graduated Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and scalable solutions. 
+<br><br>
+I recently built and deployed a complete clinic management system to production (Node.js, PostgreSQL, and an AI-powered WhatsApp bot). I have a solid foundation in Java (Spring Boot), Python, SQL, and system architecture, along with hands-on Front-End experience in JavaScript, HTML, and CSS for a Full-Stack perspective. Open to new Back-End and Full-Stack opportunities.
+</p>
 
-###
-
-<p align="left">Back-End Developer (Systems Analysis and Development - Anhanguera) focused on building robust and efficient solutions. I build and run in production a full system for a clinic (Node.js, PostgreSQL, an AI-powered WhatsApp bot), on top of a solid background in Spring, Python and SQL, plus Front-End knowledge in JavaScript, HTML and CSS for a Full-Stack perspective. Open to new Back-End / Full-Stack opportunities.</p>
-
-###
+---
 
 <h2 align="left">Projetos em destaque:</h2>
 
@@ -40,30 +42,26 @@ https://www.linkedin.com/in/guilhermerodrigueszx/
 | [**motor-recomendacao**](https://github.com/guirodriguesxz/motor-recomendacao) | Microsserviço de recomendação de produtos por similaridade de cosseno | Python, FastAPI, scikit-learn, Docker |
 | [**gestao-piscinas-api**](https://github.com/guirodriguesxz/gestao-piscinas-api) | API de manutenção de piscinas com histórico químico (pH/cloro) para modelo preditivo | Java, Spring Boot |
 
-###
+---
 
-<h2 align="left">Linguagens:</h2>
-
-###
+<h2 align="left">Linguagens e Ferramentas:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
-
-###
