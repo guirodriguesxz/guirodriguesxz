@@ -35,20 +35,7 @@ I recently built and deployed a complete clinic management system to production 
 <h2 align="left">Projetos em destaque:</h2>
 
 | Projeto | O que é | Stack |
-|---|---|---|
-| [**facegym**](https://github.com/guirodriguesxz/facegym) · [demo](https://facegym-web.vercel.app) | Catraca de academia com reconhecimento facial. **Arquitetura hexagonal validada com ArchUnit**, **circuit breaker com fallback por CPF** e biometria em serviço separado (LGPD). Na demo dá para testar com o próprio rosto | Java 21, Spring Boot 3, Resilience4j, ArchUnit, Python, FastAPI, InsightFace, pgvector, React, TypeScript |
-| [**physiomanage**](https://github.com/guirodriguesxz/physiomanage) · [demo](https://physiomanage-web.vercel.app) | SaaS para clínicas de fisioterapia com **multi-tenancy com isolamento por JWT** e **testes de integração com Testcontainers**. Front-end em [physiomanage-web](https://github.com/guirodriguesxz/physiomanage-web) | Java 21, Spring Boot 3, PostgreSQL, Redis, JWT, Testcontainers, React, TypeScript |
-| [**agendadorHorarios**](https://github.com/guirodriguesxz/agendadorHorarios) | API de agendamentos com **prevenção de race conditions (constraint de banco + lock otimista)**, impedindo choque de horário mesmo com requisições simultâneas, e **notificações assíncronas via RabbitMQ** | Java 21, Spring Boot, PostgreSQL, Flyway, RabbitMQ |
-| [**motor-recomendacao**](https://github.com/guirodriguesxz/motor-recomendacao) | Microsserviço de recomendação de produtos por similaridade de cosseno | Python, FastAPI, scikit-learn, Docker |
-
----|---|---|
-| [**facegym**](https://github.com/guirodriguesxz/facegym) · [demo](https://facegym-web.vercel.app) | Catraca de academia com reconhecimento facial: arquitetura hexagonal, circuit breaker com fallback por CPF e biometria em serviço separado (LGPD). Na demo dá para testar com o próprio rosto | Java 21, Spring Boot 3, Resilience4j, Python, FastAPI, InsightFace, pgvector, React, TypeScript |
-| [**physiomanage**](https://github.com/guirodriguesxz/physiomanage) · [demo](https://physiomanage-web.vercel.app) | SaaS multi-tenant para clínicas de fisioterapia, com JWT, isolamento por tenant e testes de integração. Front-end em [physiomanage-web](https://github.com/guirodriguesxz/physiomanage-web) | Java 21, Spring Boot 3, PostgreSQL, Redis, Testcontainers, React, TypeScript |
-| [**agendadorHorarios**](https://github.com/guirodriguesxz/agendadorHorarios) | API de agendamentos que impede choque de horário mesmo com requisições simultâneas e notifica via fila | Java 21, Spring Boot, PostgreSQL, Flyway, RabbitMQ |
-| [**motor-recomendacao**](https://github.com/guirodriguesxz/motor-recomendacao) | Microsserviço de recomendação de produtos por similaridade de cosseno | Python, FastAPI, scikit-learn, Docker |
-| [**gestao-piscinas-api**](https://github.com/guirodriguesxz/gestao-piscinas-api) | API de manutenção de piscinas com histórico químico (pH/cloro) para modelo preditivo | Java, Spring Boot |
-
----
+|---
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 
