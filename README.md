@@ -16,7 +16,7 @@
 <h2 align="left">Sobre Mim:</h2>
 
 <p align="left">
-Desenvolvedor Back-End Júnior formado em Análise e Desenvolvimento de Sistemas (Anhanguera), focado em soluções robustas, escaláveis e bem testadas.
+Foco em soluções robustas, escaláveis e bem testadas.
 <br><br>
 Como freelancer na <b>Fisio Life</b>, projetei e mantenho em produção um sistema completo de gestão para uma clínica de fisioterapia (Node.js, Express, PostgreSQL, Redis e Docker), com um bot de atendimento via WhatsApp integrado à OpenAI que faz a triagem de pacientes e organiza agendamentos. O projeto tem mais de 100 testes automatizados, CI/CD com GitHub Actions, monitoramento com Sentry e deploy na Railway, e foi conduzido do levantamento de requisitos até a operação.
 <br><br>
@@ -30,7 +30,7 @@ Também atuo com Java (Spring Boot 3) e Python (FastAPI), construindo APIs REST,
 <h2 align="left">About Me (EN):</h2>
 
 <p align="left">
-Junior Back-End Developer with a degree in Systems Analysis and Development (Anhanguera), focused on robust, scalable and well-tested solutions.
+Junior Back-End Developer (Systems Analysis and Development, Anhanguera) focused on robust, scalable and well-tested solutions.
 <br><br>
 As a freelancer at <b>Fisio Life</b>, I designed and run in production a complete management system for a physiotherapy clinic (Node.js, Express, PostgreSQL, Redis and Docker), including a WhatsApp support bot integrated with OpenAI that triages patients and organizes appointments. The project has 100+ automated tests, CI/CD with GitHub Actions, Sentry monitoring and deployment on Railway, and was led from requirements gathering to production.
 <br><br>
@@ -61,11 +61,21 @@ I also work with Java (Spring Boot 3) and Python (FastAPI), building REST APIs, 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="8" />
