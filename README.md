@@ -67,15 +67,6 @@ I recently built and deployed a complete clinic management system to production 
 
 ---
 
-<h2 align="left">GitHub Stats:</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guirodriguesxz&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guirodriguesxz&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
-</p>
-
----
-
 <h2 align="left">Outros projetos:</h2>
 
 - [**gestao-piscinas-api**](https://github.com/guirodriguesxz/gestao-piscinas-api): API de manutenção de piscinas com histórico químico (pH/cloro) para modelo preditivo (Java, Spring Boot).
