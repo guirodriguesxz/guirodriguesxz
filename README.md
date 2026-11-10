@@ -64,9 +64,3 @@ I recently built and deployed a complete clinic management system to production 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
-
----
-
-<h2 align="left">Outros projetos:</h2>
-
-- [**gestao-piscinas-api**](https://github.com/guirodriguesxz/gestao-piscinas-api): API de manutenção de piscinas com histórico químico (pH/cloro) para modelo preditivo (Java, Spring Boot).
