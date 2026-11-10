@@ -2,10 +2,13 @@
 
 <p align="left">Sou Guilherme Rodrigues, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por tecnologia.</p>
 
+<p align="left"><b>Desenvolvedor Back-End Java</b> · Spring Boot · PostgreSQL · Arquitetura Hexagonal · <b>aberto a oportunidades</b></p>
+
 <p align="left">
-  <a href="https://guirodriguesxz.github.io/"><img src="https://img.shields.io/badge/Portfólio-Ver_projetos-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio - Ver projetos"></a>
-  <a href="https://www.linkedin.com/in/guilhermerodrigueszx/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Conecte-se"></a>
-  <a href="https://wa.me/5511944983631?text=Ol%C3%A1%2C%20Guilherme!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade."><img src="https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp - Fale comigo"></a>
+  <a href="https://guirodriguesxz.github.io/"><img src="https://img.shields.io/badge/Portfólio-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/guilhermerodrigueszx/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:guirodrigues2080@gmail.com"><img src="https://img.shields.io/badge/E--mail-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="./curriculo_guilherme_rodrigues.pdf"><img src="https://img.shields.io/badge/Currículo-2563eb?style=flat-square&logo=readthedocs&logoColor=white" alt="Currículo (PDF)"></a>
 </p>
 
 ---
