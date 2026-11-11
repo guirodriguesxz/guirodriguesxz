@@ -18,7 +18,7 @@
 <p align="left">
 Foco em soluções robustas, escaláveis e bem testadas.
 <br><br>
-Como freelancer na <b>Fisio Life</b>, projetei e mantenho em produção um sistema completo de gestão para uma clínica de fisioterapia (Node.js, Express, PostgreSQL, Redis e Docker), com um bot de atendimento via WhatsApp integrado à OpenAI que faz a triagem de pacientes e organiza agendamentos. O projeto tem mais de 100 testes automatizados, CI/CD com GitHub Actions, monitoramento com Sentry e deploy na Railway, e foi conduzido do levantamento de requisitos até a operação.
+Como freelancer na <b>Fisio Life</b> (ago a set/2026), projetei e mantive em produção um sistema completo de gestão para uma clínica de fisioterapia com mais de 100 pacientes (Node.js, Express, PostgreSQL, Redis e Docker), incluindo um bot de atendimento via WhatsApp com IA (OpenAI GPT-4o mini) que atendia mais de 10 pacientes por dia, fazendo a triagem e encaminhando à recepção apenas os casos que exigiam atendimento humano. O projeto teve mais de 1.000 testes automatizados, CI/CD com GitHub Actions, monitoramento com Sentry e deploy na Railway, e foi conduzido do levantamento de requisitos até a operação.
 <br><br>
 Também atuo com Java (Spring Boot 3) e Python (FastAPI), construindo APIs REST, microsserviços e arquitetura hexagonal, e trabalho com Scrum e Kanban. Busco uma oportunidade júnior para crescer em um time experiente e ágil.
 <br><br>
@@ -32,7 +32,7 @@ Também atuo com Java (Spring Boot 3) e Python (FastAPI), construindo APIs REST,
 <p align="left">
 Junior Back-End Developer (Systems Analysis and Development, Anhanguera) focused on robust, scalable and well-tested solutions.
 <br><br>
-As a freelancer at <b>Fisio Life</b>, I designed and run in production a complete management system for a physiotherapy clinic (Node.js, Express, PostgreSQL, Redis and Docker), including a WhatsApp support bot integrated with OpenAI that triages patients and organizes appointments. The project has 100+ automated tests, CI/CD with GitHub Actions, Sentry monitoring and deployment on Railway, and was led from requirements gathering to production.
+As a freelancer at <b>Fisio Life</b> (Aug to Sep 2026), I designed and ran in production a complete management system for a physiotherapy clinic with 100+ patients (Node.js, Express, PostgreSQL, Redis and Docker), including an AI-powered WhatsApp support bot (OpenAI GPT-4o mini) that handled 10+ patients a day, triaging them and routing to the front desk only the cases that needed a human. The project had 1,000+ automated tests, CI/CD with GitHub Actions, Sentry monitoring and deployment on Railway, and was led from requirements gathering to production.
 <br><br>
 I also work with Java (Spring Boot 3) and Python (FastAPI), building REST APIs, microservices and hexagonal architecture, using Scrum and Kanban. I am looking for a junior role to grow within an experienced, agile team.
 </p>
